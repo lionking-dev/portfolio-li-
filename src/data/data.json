@@ -1,0 +1,400 @@
+{
+    "headerData": {
+        "name": "Tony James",
+        "title": "WEB & BLOCKCHAIN DEVELOPER",
+        "desciption": "There wasn't a bird in the sky, but that was not what caught his attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. He knew what was coming and he hoped he was prepared. ",
+        "image": "/assets/avatar/avatar.png",
+        "defaultAvatar": "/assets/avatar/default.png",
+        "resumePdf": "/assets/pdf/resume.pdf",
+        "configuration": {
+            "showAvatar": true
+        }
+    },
+    "aboutData": {
+        "title": "Who I am",
+        "description1": "My name's Tony. I'm a web and blockchain developer based in basel, Switzerland.",
+        "description2": "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at Python and Django. I love to learn and explore new arenas.",
+        "image": 1,
+        "configuration": {
+            "rightMode": true
+        }
+    },
+    "educationData": {
+        "content": [
+            {
+                "id": 1,
+                "institution": "University of St. Gallen",
+                "course": "Bachelor of Science",
+                "startYear": "2009",
+                "endYear": "2012"
+            },
+            {
+                "id": 2,
+                "institution": "University of London",
+                "course": "Bachelor of Science",
+                "startYear": "2013",
+                "endYear": "2015"
+            }
+        ],
+        "configuration": {
+            "rightMode": false
+        }
+    },
+    "skillsData": {
+        "content": [
+            "HTML",
+            "Next JS",
+            "Bootstrap",
+            "Vue",
+            "Javascript",
+            "Typescript",
+            "CSS",
+            "React",
+            "Angular",
+            "Django",
+            "MaterialUI",
+            "Tensorflow"
+        ],
+        "configuration": {
+            "showStatic": false
+        }
+    },
+    "experienceData": {
+        "content": [
+            {
+                "id": 1,
+                "company": "DIGIS",
+                "jobtitle": "JUNIOR FRONTEND & REACT DEVELOPER",
+                "startYear": "2016",
+                "endYear": "2017"
+            },
+            {
+                "id": 2,
+                "company": "UBITUS INC",
+                "jobtitle": "Blockchain Developer",
+                "startYear": "2017",
+                "endYear": "2019"
+            },
+            {
+                "id": 3,
+                "company": "STEELKIWI",
+                "jobtitle": "Full stack developer",
+                "startYear": "2019",
+                "endYear": "2019"
+            },
+            {
+                "id": 4,
+                "company": "Axisbits GmbH",
+                "jobtitle": "Senior Web Developer",
+                "startYear": "2020",
+                "endYear": "present"
+            }
+        ],
+        "configuration": {
+            "rightMode": false
+        }
+    },
+    "projectsData": {
+        "content": [
+            {
+                "id": 1,
+                "projectName": "Employee Management",
+                "projectDesc": "This project aims to build an employee management system that consolidates all information of a company",
+                "tags": [
+                    "React",
+                    "CSS",
+                    "Material Ui"
+                ],
+                "code": "https://github.com/hhhrrrttt222111/developer-portfolio",
+                "demo": "https://github.com/hhhrrrttt222111/developer-portfolio",
+                "image": "/assets/svg/projects/one.svg"
+            },
+            {
+                "id": 2,
+                "projectName": "Railway Tracking",
+                "projectDesc": "This project is a railway tracking system that allows users to obtain relevant information about train timing.",
+                "tags": [
+                    "Django",
+                    "Tailwind CSS"
+                ],
+                "code": "https://github.com/hhhrrrttt222111/developer-portfolio",
+                "demo": "https://github.com/hhhrrrttt222111/developer-portfolio",
+                "image": "/assets/svg/projects/two.svg"
+            },
+            {
+                "id": 3,
+                "projectName": "Weather App",
+                "projectDesc": "Weather forecast systems and applications predict weather conditions based on multiple parameters.",
+                "tags": [
+                    "Django",
+                    "CSS",
+                    "Material Ui"
+                ],
+                "code": "https://github.com/hhhrrrttt222111/developer-portfolio",
+                "demo": "https://github.com/hhhrrrttt222111/developer-portfolio",
+                "image": "/assets/svg/projects/three.svg"
+            },
+            {
+                "id": 4,
+                "projectName": "Android Patient Tracker",
+                "projectDesc": "This project involves the development of an Android application for viewing and managing patient data.",
+                "tags": [
+                    "Flutter",
+                    "Firebase"
+                ],
+                "code": "https://github.com/hhhrrrttt222111/developer-portfolio",
+                "demo": "https://github.com/hhhrrrttt222111/developer-portfolio",
+                "image": "/assets/svg/projects/four.svg"
+            },
+            {
+                "id": 5,
+                "projectName": "E-Commerce App",
+                "projectDesc": "A Simple E-commerce application",
+                "tags": [
+                    "React Native",
+                    "Firebase"
+                ],
+                "code": "https://github.com/hhhrrrttt222111/developer-portfolio",
+                "demo": "https://github.com/hhhrrrttt222111/developer-portfolio",
+                "image": "/assets/svg/projects/five.svg"
+            },
+            {
+                "id": 6,
+                "projectName": "Uber Lite",
+                "projectDesc": "Uber clone",
+                "tags": [
+                    "Flutter"
+                ],
+                "code": "https://github.com/hhhrrrttt222111/developer-portfolio",
+                "demo": "https://github.com/hhhrrrttt222111/developer-portfolio",
+                "image": "/assets/svg/projects/six.svg"
+            },
+            {
+                "id": 7,
+                "projectName": "Stock Market App",
+                "projectDesc": "A simple stock market API app",
+                "tags": [
+                    "React",
+                    "Redux",
+                    "Bootstrap"
+                ],
+                "code": "https://github.com/hhhrrrttt222111/developer-portfolio",
+                "demo": "https://github.com/hhhrrrttt222111/developer-portfolio",
+                "image": "/assets/svg/projects/seven.svg"
+            },
+            {
+                "id": 8,
+                "projectName": "Car Pooling System",
+                "projectDesc": "The carpooling system merges multiple people in a car which leads to meet new people, reduces pollution",
+                "tags": [
+                    "Flutter",
+                    "React"
+                ],
+                "code": "https://github.com/hhhrrrttt222111/developer-portfolio",
+                "demo": "https://github.com/hhhrrrttt222111/developer-portfolio",
+                "image": "/assets/svg/projects/eight.svg"
+            }
+        ],
+        "configuration": {
+            "showDemo": false,
+            "showCode": false
+        }
+    },
+    "achievementData": {
+        "bio": "Putting quantified achievements on a resume is great, but I just don’t work with hard numbers. I have no data to support the quality of my work. If you have lots of relevant experience, the heading statement of your resume will be a summary.",
+        "achievements": [
+            {
+                "id": 1,
+                "title": "Google Cloud certification",
+                "details": "Google Cloud certifications validate your expertise and showcase your ability to transform businesses with Google Cloud technology.",
+                "date": "Aug 20, 2019",
+                "field": "Automation",
+                "image": "https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80"
+            },
+            {
+                "id": 2,
+                "title": "AWS Certification",
+                "details": "Validate technical skills and cloud expertise to grow your career and business.",
+                "date": "Aug 20, 2019",
+                "field": "Automation",
+                "image": "https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+            },
+            {
+                "id": 3,
+                "title": "Professional Data Engineer Certification",
+                "details": "Professional Data Engineers enable data-driven decision making by collecting, transforming, and publishing data.",
+                "date": "Aug 20, 2019",
+                "field": "Automation",
+                "image": "https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+            }
+        ],
+        "configuration": {
+            "rightMode": true
+        }
+    },
+    "servicesData": {
+        "content": [
+            {
+                "id": 1,
+                "title": "Marketing"
+            },
+            {
+                "id": 2,
+                "title": "Content Writing"
+            },
+            {
+                "id": 3,
+                "title": "Email Marketing"
+            },
+            {
+                "id": 4,
+                "title": "Internet Research"
+            },
+            {
+                "id": 5,
+                "title": "Tutoring"
+            },
+            {
+                "id": 6,
+                "title": "Web Design"
+            },
+            {
+                "id": 7,
+                "title": "Photography"
+            },
+            {
+                "id": 8,
+                "title": "Pinterest Virtual Assistant"
+            },
+            {
+                "id": 9,
+                "title": "Video Editing"
+            },
+            {
+                "id": 10,
+                "title": "Data Entry"
+            },
+            {
+                "id": 11,
+                "title": "Ebook Writing"
+            },
+            {
+                "id": 12,
+                "title": "Audio Transcription"
+            },
+            {
+                "id": 13,
+                "title": "Blog Posting"
+            }
+        ],
+        "configuration": {
+            "animationMode": false
+        }
+    },
+    "testimonialsData": [
+        {
+            "id": 1,
+            "name": "Chandler Bing",
+            "title": "Transponster",
+            "text": "Building my own portfolio could've never been easier than this. The only areas I'm good at are Math, Jokes and Dance.",
+            "image": "/assets/svg/testimonials/boy2.svg"
+        },
+        {
+            "id": 2,
+            "name": "Monica Geller",
+            "title": "Head Chef",
+            "text": "This is the only thing that I didn't have to spend time to sort out. It's tidy all by itself.",
+            "image": "/assets/svg/testimonials/girl2.svg"
+        },
+        {
+            "id": 3,
+            "name": "Phoebe Buffay",
+            "title": "Massuese",
+            "text": "Heard of the song 'Smelly Cat!!' ? This website made it viral. Plus portfolio is the only thing that Ursula doesn't have :)",
+            "image": "/assets/svg/testimonials/girl1.svg"
+        },
+        {
+            "id": 4,
+            "name": "Joey Tribbiani",
+            "title": "Actor",
+            "text": "Making my portfolio with this helped me get my role as 'Dr. Drake Ramoray' in 'Days Of Our Lives'. You guys are the best !",
+            "image": "/assets/svg/testimonials/boy1.svg"
+        },
+        {
+            "id": 5,
+            "name": "Rachel Green",
+            "title": "Sales Executive",
+            "text": "Ralph Lauren was one of the best things that ever happened to me. My portfolio made that dream happen. I owe you guys.",
+            "image": "/assets/svg/testimonials/girl3.svg"
+        },
+        {
+            "id": 6,
+            "name": "Ross Geller",
+            "title": "Paleontologist",
+            "text": "Be it 'Rocks' or 'Bones', you need a website to display it. This is it. Great work guys !",
+            "image": "/assets/svg/testimonials/boy3.svg"
+        }
+    ],
+    "blogData": [
+        {
+            "id": 1,
+            "title": "SCRAPING BILLBOARD AND IMDB USING PYTHON SELENIUM",
+            "description": "Here we will use Selenium to navigate between web pages, and try to scrape data from them.",
+            "date": "Aug 7, 2020",
+            "image": "https://1.bp.blogspot.com/-6vZQoWcIZeo/Xvw5ZD5Y53I/AAAAAAAABgI/GH2b5OuMaXAKuigK4diBbeYDW6dD3qVvgCK4BGAsYHg/w400-h225/selenium.jpg",
+            "url": "https://hackzism.blogspot.com/2020/07/scraping-billboard-and-imdb-using.html"
+        },
+        {
+            "id": 2,
+            "title": "CHECK WEATHER FROM TERMINAL USING WTTR.IN",
+            "description": "wttr.in is a console-oriented weather forecast service that supports various information representation methods like ANSI-sequences for console HTTP clients, HTML, or PNG.",
+            "date": "Aug 11, 2020",
+            "image": "https://1.bp.blogspot.com/-OW7jX57tea4/XvnGxuEOslI/AAAAAAAABW0/R8lVT1AXDSwnvE0EGA9Ra49-LDm1ACwDgCK4BGAsYHg/s1216/wttr1.png",
+            "url": "https://hackzism.blogspot.com/2020/06/check-weather-from-terminal-using-wttrin.html"
+        },
+        {
+            "id": 3,
+            "title": "BEING ANONYMOUS: A BEGINNERS GUIDE",
+            "description": "Here are some basic ways to lay off the Radar",
+            "date": "Aug 14, 2020",
+            "image": "https://1.bp.blogspot.com/-GR19yCNbKCE/XuRcKEfKvhI/AAAAAAAAAwY/srFWw5pOpzMibeJb__SmgZpx9dIpNNWqgCK4BGAsYHg/w640-h426/anonymous1.jpg",
+            "url": "https://hackzism.blogspot.com/2020/06/being-anonymous-beginners-guide.html"
+        },
+        {
+            "id": 4,
+            "title": "CHECK INTERNET SPEED FROM THE COMMAND LINE",
+            "description": "Want to check your internet speed from the terminal? Here's the perfect way to the that.",
+            "date": "Sep 17, 2020",
+            "image": "https://1.bp.blogspot.com/-XTVMsZP3HaM/Xxpl394txlI/AAAAAAAABws/zovXWiuNGg4TzBwYYVFfJ1ixDb3JfVokgCNcBGAsYHQ/w400-h195/speedtest.png",
+            "url": "https://hackzism.blogspot.com/2020/07/check-internet-speed-from-command-line.html"
+        },
+        {
+            "id": 5,
+            "title": "GET MICHAEL'S OR TREVOR'S VEHICLES FULLY UPGRADED IN GTA V FOR FREE",
+            "description": "In case you haven't heard of this game, GTA stands for 'Grand Theft Auto'. It is an open-world game published by Rockstar Games.",
+            "date": "Oct 1, 2020",
+            "image": "https://1.bp.blogspot.com/-jhdtUBIRD_s/XxLFKQuRz9I/AAAAAAAABsM/mClfbfDFKvsUwA7Wyi25Lzu3DEmL2lxrACNcBGAsYHQ/s1919/gta.jpg",
+            "url": "https://hackzism.blogspot.com/2020/07/how-can-you-get-michaels-or-trevors.html"
+        }
+    ],
+    "contactsData": {
+        "email": "bluesea1002td@gmail.com",
+        "phone": "+061 661 12 68",
+        "address": "Breitenstrasse 147, Basel, Switzerland - 4052 ",
+        "sheetAPI": ""
+    },
+    "socialsData": {
+        "github": "https://github.com/",
+        "facebook": "https://www.facebook.com/",
+        "linkedIn": "https://www.linkedin.com/in",
+        "instagram": "https://www.instagram.com/",
+        "codepen": "https://codepen.io/",
+        "twitter": "https://twitter.com/",
+        "reddit": "https://www.reddit.com/user/",
+        "blogger": "https://www.blogger.com/",
+        "medium": "https://medium.com/@",
+        "stackOverflow": "https://stackoverflow.com/users/",
+        "gitlab": "https://gitlab.com/",
+        "youtube": "https://youtube.com/"
+    }
+}
