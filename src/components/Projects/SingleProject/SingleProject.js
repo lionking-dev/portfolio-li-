@@ -38,8 +38,9 @@ function SingleProject({ id, name, desc, tags, code, demo, image, theme }) {
 
     return (
         <Fade bottom>
-            <div
+            <a
                 key={id}
+                href={demo}
                 className='singleProject'
                 style={{ backgroundColor: theme.primary400 }}
             >
@@ -119,7 +120,7 @@ function SingleProject({ id, name, desc, tags, code, demo, image, theme }) {
                         <span key={id}>{tag}</span>
                     ))}
                 </div>
-            </div>
+            </a>
         </Fade>
     );
 }

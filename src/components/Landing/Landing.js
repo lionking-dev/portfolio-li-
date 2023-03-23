@@ -26,6 +26,12 @@ function Landing() {
     const headerData= devInfo.headerData;
     const socialsData = devInfo.socialsData;
     const { theme, drawerOpen } = useContext(ThemeContext);
+    const scrollToContact = () => {
+        window.scrollTo({
+            top: 50,
+            behavior: 'smooth',
+        });
+    };
 
     const useStyles = makeStyles((t) => ({
         resumeBtn: {
@@ -284,7 +290,10 @@ function Landing() {
                                 spy='true'
                                 duration={2000}
                             >
-                                <Button className={classes.contactBtn}>
+                                <Button 
+                                    onClick={scrollToContact}
+                                    className={classes.contactBtn}
+                                >
                                     Contact
                                 </Button>
                             </NavLink>
