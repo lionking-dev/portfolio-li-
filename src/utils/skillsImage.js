@@ -75,6 +75,13 @@ import wolframalpha from '../assets/svg/skills/wolframalpha.svg'
 
 import canva from '../assets/svg/skills/canva.svg'
 
+import backend_development from '../assets/svg/skills/backend_development.jpg'
+import pyspark from '../assets/svg/skills/pyspark.png'
+import database_administration from '../assets/svg/skills/database-administration.png'
+import grafana from '../assets/svg/skills/grafana.png'
+import frontend_development from '../assets/svg/skills/frontend-development.png'
+
+
 
 export const skillsImage = (skill) => {
     const skillID = skill.toLowerCase();
@@ -227,6 +234,18 @@ export const skillsImage = (skill) => {
             return wolframalpha;
         case 'canva':
             return canva;
+        case 'back-end development':
+            return backend_development;
+        case 'python script':
+            return python;
+        case 'pyspark':
+            return pyspark;
+        case 'database administration':
+            return database_administration;
+        case 'grafana':
+            return grafana;
+        case 'front-end development':
+            return frontend_development;
         default:
             break;
     }
