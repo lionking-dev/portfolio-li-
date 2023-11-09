@@ -248,55 +248,46 @@
                 "title": "HTML"
             },
             {
-                "id": 2,
-                "icon": "openai",
-                "title": "OpenAI"
-            },
-            {
-                "id": 3,
-                "icon": "email marketing",
-                "title": "Email Marketing"
-            },
-            {
                 "id": 3,
                 "icon": "jquery",
                 "title": "jQuery"
             },
             {
-                "id": 6,
+                "id": 4,
                 "icon": "python",
                 "title": "Python"
             },
             {
-                "id": 7,
+                "id": 5,
                 "icon": "aws",
                 "title": "AWS service"
             },
             {
-                "id": 8,
+                "id": 6,
                 "icon": "django",
                 "title": "Django"
             },
             {
-                "id": 9,
+                "id": 7,
                 "icon": "javascript",
                 "title": "JavaScript"
             },
             {
-                "id": 10,
+                "id": 8,
                 "icon": "chaptgpt",
                 "title": "ChaptGPT"
             },
             {
-                "id": 11,
+                "id": 9,
                 "icon": "ebook writing",
                 "title": "Ebook Writing"
             },
             {
-                "id": 12,
-                "icon": "pyspark",
-                "title": "PySpark"
+                "id": 10,
+                "icon": "grafana",
+                "title": "Grafana"
             }
+            
         ],
         "configuration": {
             "animationMode": false
