@@ -313,7 +313,7 @@ function Contacts() {
                             </p>
                         </div>
 
-                        <div className='socialmedia-icons'>
+                        {/* <div className='socialmedia-icons'>
                             {socialsData.twitter && (
                                 <a
                                     href={socialsData.twitter}
@@ -424,7 +424,7 @@ function Contacts() {
                                     <FaGitlab aria-label='GitLab' />
                                 </a>
                             )}
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>

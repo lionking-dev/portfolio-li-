@@ -183,7 +183,7 @@
         "achievements": [
             {
                 "id": 1,
-                "title": "Ruby on Rails certification",
+                "title": "Python certification",
                 "details": "Validated my expertise and showcased my ability through this amazing framework with Edchart.",
                 "date": "Aug 20, 2018",
                 "field": "Automation",
@@ -202,7 +202,7 @@
             {
                 "id": 3,
                 "title": "Backend Certification",
-                "details": "Learned backend programming languages such as Ruby, PHP, Python, JavaScript, Java and C++",
+                "details": "Learned backend programming languages such as PHP, Python, Golang and JavaScript",
                 "date": "Dec 3, 2019",
                 "field": "Automation",
                 "image": "/assets/png/backend_triple.png",
