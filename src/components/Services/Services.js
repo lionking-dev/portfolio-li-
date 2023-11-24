@@ -56,8 +56,6 @@ function Services() {
                                     ))
 
                             }
-
-
                         </div>
                     </div>
                 </div>

@@ -2,8 +2,9 @@
 import { BiShoppingBag, BiPencil } from "react-icons/bi";
 import { BsCodeSlash, BsClipboardData, } from "react-icons/bs";
 import { AiOutlineMail, AiFillAudio } from "react-icons/ai";
-import { DiRuby, DiAws, DiDjango, DiJavascript, DiWebplatform } from "react-icons/di";
+import { DiRuby, DiAws, DiDjango, DiJavascript, DiWebplatform, DiJqueryUiLogo } from "react-icons/di";
 import { FaHtml5, FaReact, FaVuejs, FaPython, FaWordpress, FaInternetExplorer, FaChalkboardTeacher, FaCameraRetro, FaPinterest, FaVideo, FaTabletAlt, FaRegNewspaper } from "react-icons/fa";
+import { SiGrafana } from "react-icons/si";
 
 export const serviceIcons = (service) => {
     const serviceID = service.toLowerCase();
@@ -34,5 +35,9 @@ export const serviceIcons = (service) => {
             return <FaWordpress />;
         case 'webflow':
             return <DiWebplatform />;
+        case 'jquery':
+            return <DiJqueryUiLogo />;
+        case 'grafana':
+            return <SiGrafana />;
     }
 }

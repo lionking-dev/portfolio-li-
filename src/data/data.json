@@ -1,7 +1,7 @@
 {
     "headerData": {
-        "name": "Shawn Huston",
-        "title": "SENIOR FULL STACK DEVELOPER",
+        "name": "Yaroslav Holubenko",
+        "title": "Backend Web Developer | Python",
         "desciption": "There wasn't a bird in the sky, but that was not what caught his attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. He knew what was coming and he hoped he was prepared. ",
         "image": "/assets/avatar/avatar.png",
         "defaultAvatar": "/assets/avatar/default.png",
@@ -12,8 +12,8 @@
     },
     "aboutData": {
         "title": "Who I am",
-        "description1": "My name's Shawn. I'm a senior full stack developer with proficiency in Ruby, from Canada.",
-        "description2": "Have 6 years of experience as a senior Full stack Developer, skilled in both front-end and back-end development, with proficiency in Ruby , as well as front-end frameworks like React and Angular. Self-driven, collaborative, strong problem-solving skills and commitment to writing clean, testable, maintainable and high-quality code.        Have professional experience in Git, Jenkins, messaging services, testing frameworks and tools, Docker, Kubernetes and AWS services.",
+        "description1": "My name's Yaroslav. I'm a senior Backend Web Developer with proficiency in Python, from Ukraine.",
+        "description2": "Are you looking for a Software Engineer specializing in back-end development with Python frameworks(Django/Django REST Framework)? Let’s talk. Passionate about programming and problem-solving. Always open to learn something new. Very good communication skills. I am easy to work with, open minded and flexible with any time zone.",
         "image": 1,
         "configuration": {
             "rightMode": true
@@ -23,10 +23,10 @@
         "content": [
             {
                 "id": 1,
-                "institution": "University of Western Ontario",
+                "institution": "Odessa National Polytechnic University",
                 "course": "Bachelor in Computer Science",
-                "startYear": "2013",
-                "endYear": "2017"
+                "startYear": "2010",
+                "endYear": "2014"
             }
         ],
         "configuration": {
@@ -35,18 +35,16 @@
     },
     "skillsData": {
         "content": [
-            "HTML",
-            "Next JS",
-            "Bootstrap",
-            "Vue",
-            "Javascript",
-            "Typescript",
-            "CSS",
-            "React",
-            "Angular",
+            "Back-End Development",
             "Django",
-            "MaterialUI",
-            "Tensorflow"
+            "Python",
+            "Python Script",
+            "PySpark",
+            "Database Administration",
+            "Grafana",
+            "PostgreSQL",
+            "MongoDB",
+            "Front-End Development"
         ],
         "configuration": {
             "showStatic": false
@@ -56,24 +54,17 @@
         "content": [
             {
                 "id": 1,
-                "company": "TicketSolve",
-                "jobtitle": "Full stack developer",
-                "startYear": "2018",
-                "endYear": "2019"
+                "company": "DIGIS",
+                "jobtitle": "Junior Backend Developer",
+                "startYear": "2014",
+                "endYear": "2018"
             },
             {
                 "id": 2,
-                "company": "Aircall",
-                "jobtitle": "Senior Full stack Developer",
-                "startYear": "2019",
-                "endYear": "2020"
-            },
-            {
-                "id": 3,
-                "company": "Transfix",
-                "jobtitle": "Senior Full stack developer",
-                "startYear": "2020",
-                "endYear": "2022"
+                "company": "LEMAPP",
+                "jobtitle": "Lead Python Developer",
+                "startYear": "2018",
+                "endYear": "2023"
             }
         ],
         "configuration": {
@@ -192,7 +183,7 @@
         "achievements": [
             {
                 "id": 1,
-                "title": "Ruby on Rails certification",
+                "title": "Python certification",
                 "details": "Validated my expertise and showcased my ability through this amazing framework with Edchart.",
                 "date": "Aug 20, 2018",
                 "field": "Automation",
@@ -211,7 +202,7 @@
             {
                 "id": 3,
                 "title": "Backend Certification",
-                "details": "Learned backend programming languages such as Ruby, PHP, Python, JavaScript, Java and C++",
+                "details": "Learned backend programming languages such as PHP, Python, Golang and JavaScript",
                 "date": "Dec 3, 2019",
                 "field": "Automation",
                 "image": "/assets/png/backend_triple.png",
@@ -257,65 +248,46 @@
                 "title": "HTML"
             },
             {
-                "id": 2,
-                "icon": "react",
-                "title": "React.js"
-            },
-            {
                 "id": 3,
-                "icon": "email marketing",
-                "title": "Email Marketing"
+                "icon": "jquery",
+                "title": "jQuery"
             },
             {
                 "id": 4,
-                "icon": "ruby on rails",
-                "title": "Ruby on Rails"
-            },
-            {
-                "id": 5,
-                "icon": "vue",
-                "title": "Vue.js"
-            },
-            {
-                "id": 6,
                 "icon": "python",
                 "title": "Python"
             },
             {
-                "id": 7,
+                "id": 5,
                 "icon": "aws",
                 "title": "AWS service"
             },
             {
-                "id": 8,
+                "id": 6,
                 "icon": "django",
                 "title": "Django"
             },
             {
-                "id": 9,
+                "id": 7,
                 "icon": "javascript",
                 "title": "JavaScript"
             },
             {
-                "id": 10,
+                "id": 8,
                 "icon": "chaptgpt",
                 "title": "ChaptGPT"
             },
             {
-                "id": 11,
+                "id": 9,
                 "icon": "ebook writing",
                 "title": "Ebook Writing"
             },
             {
-                "id": 12,
-                "icon": "wordpress",
-                "title": "Wordpress"
-            },
-            {
-                "id": 13,
-                "icon": "webflow",
-                "title": "Webflow"
+                "id": 10,
+                "icon": "grafana",
+                "title": "Grafana"
             }
+            
         ],
         "configuration": {
             "animationMode": false
@@ -328,9 +300,9 @@
         
     ],
     "contactsData": {
-        "email": "clarinet00917@gmail.com",
-        "phone": "+1 (214) 329 0703",
-        "address": "Waltonian Dr Callandar, Ontario, Canada",
+        "email": "golubenkoaroslav92@gmail.com",
+        "phone": "+380 97 003 8077",
+        "address": "Reg. Odeska, c. Odesa, st. Zhabotynskoho, buil. 59A",
         "sheetAPI": ""
     },
     "socialsData": {
