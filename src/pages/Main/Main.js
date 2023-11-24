@@ -37,10 +37,10 @@ function Main() {
                 devInfo.achievementData.achievements.length > 0 &&
                 <Achievement />
             }
-            {
+            {/* {
                 devInfo.servicesData.content.length > 0 &&
                 <Services />
-            }
+            } */}
             {
                 devInfo.testimonialsData.length > 0 &&
                 <Testimonials />

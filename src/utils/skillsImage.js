@@ -10,7 +10,7 @@ import angular from '../assets/svg/skills/angular.svg'
 import javascript from '../assets/svg/skills/javascript.svg'
 import nextJS from '../assets/svg/skills/nextJS.svg'
 import nuxtJS from '../assets/svg/skills/nuxtJS.svg'
-import react from '../assets/svg/skills/react.svg'
+import reactJS from '../assets/svg/skills/react.svg'
 import svelte from '../assets/svg/skills/svelte.svg'
 import typescript from '../assets/svg/skills/typescript.svg'
 import vue from '../assets/svg/skills/vue.svg'
@@ -80,6 +80,11 @@ import pyspark from '../assets/svg/skills/pyspark.png'
 import database_administration from '../assets/svg/skills/database-administration.png'
 import grafana from '../assets/svg/skills/grafana.png'
 import frontend_development from '../assets/svg/skills/frontend-development.png'
+import elasticsearch from '../assets/svg/skills/elasticsearch.png';
+import laravel from '../assets/svg/skills/laravel.png';
+import node_js from '../assets/svg/skills/node.png';
+import golang from '../assets/svg/skills/golang.png';
+import express_js from '../assets/svg/skills/express.png';
 
 
 
@@ -110,8 +115,8 @@ export const skillsImage = (skill) => {
             return nextJS;
         case 'nuxt js':
             return nuxtJS;
-        case 'react':
-            return react;
+        case 'react js':
+            return reactJS;
         case 'svelte':
             return svelte;
         case 'typescript':
@@ -246,6 +251,16 @@ export const skillsImage = (skill) => {
             return grafana;
         case 'front-end development':
             return frontend_development;
+        case 'elasticsearch':
+            return elasticsearch;
+        case 'laravel':
+            return laravel;
+        case 'node js':
+            return node_js;
+        case 'golang':
+            return golang;
+        case 'express js':
+            return express_js;
         default:
             break;
     }

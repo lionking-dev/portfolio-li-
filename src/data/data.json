@@ -1,7 +1,7 @@
 {
     "headerData": {
-        "name": "Yaroslav Holubenko",
-        "title": "Backend Web Developer | Python",
+        "name": "Connor Herron",
+        "title": "Full Stack Developer",
         "desciption": "There wasn't a bird in the sky, but that was not what caught his attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. He knew what was coming and he hoped he was prepared. ",
         "image": "/assets/avatar/avatar.png",
         "defaultAvatar": "/assets/avatar/default.png",
@@ -12,8 +12,8 @@
     },
     "aboutData": {
         "title": "Who I am",
-        "description1": "My name's Yaroslav. I'm a senior Backend Web Developer with proficiency in Python, from Ukraine.",
-        "description2": "Are you looking for a Software Engineer specializing in back-end development with Python frameworks(Django/Django REST Framework)? Let’s talk. Passionate about programming and problem-solving. Always open to learn something new. Very good communication skills. I am easy to work with, open minded and flexible with any time zone.",
+        "description1": "My name's Connot. I'm a senior Full Stack Developer with proficiency in React JS, from Canada.",
+        "description2": "Are you looking for a Software Engineer specializing in front-end and back-end development with React frameworks? Let’s talk. Passionate about programming and problem-solving. Always open to learn something new. Very good communication skills. I am easy to work with, open minded and flexible with any time zone.",
         "image": 1,
         "configuration": {
             "rightMode": true
@@ -23,10 +23,10 @@
         "content": [
             {
                 "id": 1,
-                "institution": "Odessa National Polytechnic University",
+                "institution": "University of Western Ontario",
                 "course": "Bachelor in Computer Science",
-                "startYear": "2010",
-                "endYear": "2014"
+                "startYear": "2013",
+                "endYear": "2017"
             }
         ],
         "configuration": {
@@ -35,16 +35,23 @@
     },
     "skillsData": {
         "content": [
-            "Back-End Development",
-            "Django",
-            "Python",
-            "Python Script",
-            "PySpark",
-            "Database Administration",
-            "Grafana",
-            "PostgreSQL",
+            "React JS",
+            "Node JS",
+            "Express JS",
+            "TypeScript",
+            "javascript",
+            "Laravel",
+            "GoLang",
+            "PHP",
+            "AWS",
+            "Tailwind",
+            "HTML",
+            "CSS",
             "MongoDB",
-            "Front-End Development"
+            "MySql",
+            "PostgreSQL",
+            "Elasticsearch",
+            "Oracle"
         ],
         "configuration": {
             "showStatic": false
@@ -54,17 +61,24 @@
         "content": [
             {
                 "id": 1,
-                "company": "DIGIS",
-                "jobtitle": "Junior Backend Developer",
-                "startYear": "2014",
+                "company": "TicketSolve",
+                "jobtitle": "Full Stack Developer",
+                "startYear": "2017",
                 "endYear": "2018"
             },
             {
                 "id": 2,
-                "company": "LEMAPP",
-                "jobtitle": "Lead Python Developer",
+                "company": "Aircall",
+                "jobtitle": "Senior Full Stack Developer",
                 "startYear": "2018",
-                "endYear": "2023"
+                "endYear": "2020"
+            },
+            {
+                "id": 3,
+                "company": "Transfix Software",
+                "jobtitle": "Senior Full Stack Developer",
+                "startYear": "2020",
+                "endYear": "2022"
             }
         ],
         "configuration": {
@@ -78,7 +92,7 @@
                 "projectName": "Transport Scheduling",
                 "projectDesc": "This project aims to build an transport scheduling system that load balancing of the company",
                 "tags": [
-                    "Ruby on Rails",
+                    "Node",
                     "React",
                     "CSS"
                 ],
@@ -183,7 +197,7 @@
         "achievements": [
             {
                 "id": 1,
-                "title": "Python certification",
+                "title": "React certification",
                 "details": "Validated my expertise and showcased my ability through this amazing framework with Edchart.",
                 "date": "Aug 20, 2018",
                 "field": "Automation",
@@ -254,8 +268,8 @@
             },
             {
                 "id": 4,
-                "icon": "python",
-                "title": "Python"
+                "icon": "node",
+                "title": "Node"
             },
             {
                 "id": 5,
@@ -300,9 +314,9 @@
         
     ],
     "contactsData": {
-        "email": "golubenkoaroslav92@gmail.com",
-        "phone": "+380 97 003 8077",
-        "address": "Reg. Odeska, c. Odesa, st. Zhabotynskoho, buil. 59A",
+        "email": "lionking.softwaredev@gmail.com",
+        "phone": "+1 (214) 329 0703",
+        "address": "38 Guay Ave, Winnipeg, MB R2M 0B7",
         "sheetAPI": ""
     },
     "socialsData": {
