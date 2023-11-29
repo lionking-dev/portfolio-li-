@@ -1,6 +1,6 @@
 {
     "headerData": {
-        "name": "Connor Herron",
+        "name": "Kelvin Lemke",
         "title": "Full Stack Developer",
         "desciption": "There wasn't a bird in the sky, but that was not what caught his attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. He knew what was coming and he hoped he was prepared. ",
         "image": "/assets/avatar/avatar.png",
@@ -63,14 +63,14 @@
                 "id": 1,
                 "company": "TicketSolve",
                 "jobtitle": "Full Stack Developer",
-                "startYear": "2017",
-                "endYear": "2018"
+                "startYear": "2015",
+                "endYear": "2016"
             },
             {
                 "id": 2,
                 "company": "Aircall",
                 "jobtitle": "Senior Full Stack Developer",
-                "startYear": "2018",
+                "startYear": "2016",
                 "endYear": "2020"
             },
             {

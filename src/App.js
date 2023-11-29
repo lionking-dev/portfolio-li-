@@ -1,14 +1,16 @@
-import React, { useContext } from 'react';
+import React, { useContext, useRef } from 'react';
 import { BrowserRouter as Router, Route, Switch, Redirect } from 'react-router-dom';
 
 import { ThemeContext } from './contexts/ThemeContext';
 import { Main, BlogPage, ProjectPage, AchievementPage } from './pages'
 import { Achievement, BackToTop } from './components'
 import ScrollToTop from './utils/ScrollToTop'
-
 import './App.css'
 
+
+
 function App() {
+
 
   const { theme } = useContext(ThemeContext);
 
