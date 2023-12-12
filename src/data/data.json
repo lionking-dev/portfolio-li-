@@ -1,6 +1,6 @@
 {
     "headerData": {
-        "name": "Connor Herron",
+        "name": "Daniel N Ortega",
         "title": "Full Stack Developer",
         "desciption": "There wasn't a bird in the sky, but that was not what caught his attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. He knew what was coming and he hoped he was prepared. ",
         "image": "/assets/avatar/avatar.png",
@@ -12,7 +12,7 @@
     },
     "aboutData": {
         "title": "Who I am",
-        "description1": "My name's Connor. I'm a senior Full Stack Developer with proficiency in React JS, from Canada.",
+        "description1": "My name's Daniel. I'm a senior Full Stack Developer with proficiency in React JS, from Canada.",
         "description2": "Are you looking for a Software Engineer specializing in front-end and back-end development with React frameworks? Let’s talk. Passionate about programming and problem-solving. Always open to learn something new. Very good communication skills. I am easy to work with, open minded and flexible with any time zone.",
         "image": 1,
         "configuration": {
@@ -315,8 +315,8 @@
     ],
     "contactsData": {
         "email": "lionking.softwaredev@gmail.com",
-        "phone": "+1 (214) 329 0703",
-        "address": "38 Guay Ave, Winnipeg, MB R2M 0B7",
+        "phone": "+1 (518) 753 5702",
+        "address": "755 Adee Ave, 10467 Bronx",
         "sheetAPI": ""
     },
     "socialsData": {
